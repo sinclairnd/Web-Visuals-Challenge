@@ -1,0 +1,27 @@
+#header-container {
+    text-align: center;
+    background-color: lightgray;
+    padding: 25px;
+}
+
+h1 {
+    font-size: 75px;
+}
+
+.panel-title {
+    font-size: 20px;
+    color: white;
+}
+
+.panel-heading {
+    background:blue;
+}
+
+#spacer {
+    height: 10px;
+}
+
+.well {
+    background:lightgray;
+    text-align: center;
+}
